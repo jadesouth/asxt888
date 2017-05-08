@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8"/>
-    <title>后台登录-西今网络有限公司</title>
+    <title>后台登录-爱上学堂有限公司</title>
     <meta name="author" content="DeathGhost" />
     <link href="<?=base_url()?>resources/assets/css/admin/login.css" tppabs="<?=base_url()?>resources/assets/css/admin/login.css" rel="stylesheet" type="text/css">
     <link href="<?=base_url()?>resources/assets/libs/layui/css/layui.css" rel="stylesheet" type="text/css">
@@ -15,7 +15,7 @@
 <form id="login-form">
 <dl class="admin_login">
     <dt>
-        <strong>西今网络后台管理系统</strong>
+        <strong>爱上学堂后台管理系统</strong>
         <em>Management System</em>
     </dt>
     <dd class="user_icon">
@@ -35,7 +35,7 @@
         <input id="submit" type="button" value="立即登录" class="submit_btn"/>
     </dd>
     <dd>
-        <p>© 2016-2018 wanxiangfuwu.com 版权所有</p>
+        <p>© 2016-2018 asxt888.com 版权所有</p>
         <p></p>
     </dd>
 </dl>

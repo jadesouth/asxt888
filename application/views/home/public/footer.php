@@ -1,7 +1,7 @@
 <div class="footer clearfix">
     <div class="m-width clearfix">
         <div class="fr clearfix">
-            <p class="info">@2016 杭州西今网络科技有限公司 All Rights Reserved<span>浙ICP备16044661号-1</span></p>
+            <p class="info">@2016 爱上学堂科技有限公司 All Rights Reserved<span>浙ICP备16044661号-1</span></p>
 <!--            <p class="phone">联系客服： 123-456-7890</p>-->
         </div>
     </div>
