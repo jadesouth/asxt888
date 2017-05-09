@@ -39,8 +39,6 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav main-nav-font">
-                <li<?='detection' == $controller ? ' class="active"' : ''?>><a href="<?=base_url('admin/detection')?>">申请检测管理</a></li>
-                <li<?='keywords' == $controller ? ' class="active"' : ''?>><a href="<?=base_url('admin/keywords/advertising')?>">关键字管理</a></li>
                 <li<?='articles' == $controller ? ' class="active"' : ''?>><a href="<?=base_url('admin/articles')?>">最新咨訊</a></li>
                 <li<?='article' == $controller ? ' class="active"' : ''?>><a href="<?=base_url('admin/article/business')?>">内容管理</a></li>
                 <li<?='messages' == $controller ? ' class="active"' : ''?>><a href="<?=base_url('admin/messages')?>">留言管理</a></li>
