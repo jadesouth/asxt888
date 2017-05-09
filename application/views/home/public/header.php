@@ -34,7 +34,6 @@
             <a <?='price' == $method_name ? 'class="menu-hover"' : ''?> href="<?=base_url('articles/price')?>">价格管控</a>
             <a <?='cases' == $method_name ? 'class="menu-hover"' : ''?> href="<?=base_url('articles/cases')?>">合作案例</a>
             <a <?='advertising' == $method_name ? 'class="menu-hover"' : ''?> href="<?=base_url('keywords/advertising')?>">广告法检测</a>
-            <a <?='address' == $method_name ? 'class="menu-hover"' : ''?> href="<?=base_url('keywords/address')?>">地址检测</a>
             <a <?='about' == $method_name ? 'class="menu-hover"' : ''?> href="<?=base_url('articles/about')?>">关于我们</a>
         </div>
     </div>
